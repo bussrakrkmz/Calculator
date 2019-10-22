@@ -1,0 +1,9 @@
+C:\Users\Casper\Documents\Visual Studio 2015\Projects\FORM ÖRNEKLERİ\Hesap Makinesi\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe.config
+C:\Users\Casper\Documents\Visual Studio 2015\Projects\FORM ÖRNEKLERİ\Hesap Makinesi\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe
+C:\Users\Casper\Documents\Visual Studio 2015\Projects\FORM ÖRNEKLERİ\Hesap Makinesi\Hesap Makinesi\bin\Debug\Hesap Makinesi.pdb
+C:\Users\Casper\Documents\Visual Studio 2015\Projects\FORM ÖRNEKLERİ\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.csprojResolveAssemblyReference.cache
+C:\Users\Casper\Documents\Visual Studio 2015\Projects\FORM ÖRNEKLERİ\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap_Makinesi.Form1.resources
+C:\Users\Casper\Documents\Visual Studio 2015\Projects\FORM ÖRNEKLERİ\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap_Makinesi.Properties.Resources.resources
+C:\Users\Casper\Documents\Visual Studio 2015\Projects\FORM ÖRNEKLERİ\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.GenerateResource.Cache
+C:\Users\Casper\Documents\Visual Studio 2015\Projects\FORM ÖRNEKLERİ\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.exe
+C:\Users\Casper\Documents\Visual Studio 2015\Projects\FORM ÖRNEKLERİ\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.pdb
